@@ -1,7 +1,7 @@
 # Bioinformática (gbi6G01_2022)
-#TAREA N°6
+# TAREA N°6
 
-##Datos personales
+## Datos personales
 García Moreira Lucía Elvira 
 
 **Edad:**
@@ -19,7 +19,7 @@ Tena
 Biotecnología
 
 
-##CARACTRÍSTICAS DEL EQUIPO
+## CARACTRÍSTICAS DEL EQUIPO
 
 
 Procesador: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz 3.40 GHz
@@ -27,7 +27,7 @@ RAM istalada: 8.00 GB
 Tipo del Sistema: Sistema operativo de 64 bits, procesador basado en x64
 
 
-##PROGRAMAS ULITIZADOS
+## PROGRAMAS ULITIZADOS
 
 Anaconda Navegator → 2.1.1 -2016
 Jupier Notebook →  6.4.6 
